@@ -1,2 +1,2 @@
 # MortalBuddys
-MortalBuddys hivatalos GitHub-ja
+Ide kerülnek a weboldal változtatásai mielőtt a masterbe kerülnének
